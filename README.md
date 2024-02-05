@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Panagiotis</h1>
 <h3 align="center">I know that I know nothing</h3>
 
-<h3 align="left">Connect with me:</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LePanayotis)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 </p>
 
