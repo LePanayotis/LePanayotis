@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Panagiotis</h1>
-
-
-
-
 <h1 align="center">Hi 👋, I'm Panayotis</h1>
 <h3 align="center">A Computer Engineering student based in Athens, Greece</h3>
 
