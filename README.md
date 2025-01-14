@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panayotis</h1>
 <h3 align="center">A Computer Engineering student based in Athens, Greece</h3>
 
-- 🌱 I’m currently learning **Distributed query execution with Trino**
+- 🌱 I’m currently learning **Microservices Development with Quarkus**
 
 - 📫 How to reach me **p.papagiannakis@protonmail.com**
 
